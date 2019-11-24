@@ -1,4 +1,5 @@
 # nioh-public
+《测试驱动Go+VueJS应用》一书的项目代码
 
 ## Project setup
 ```
